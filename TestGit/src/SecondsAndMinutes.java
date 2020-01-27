@@ -4,8 +4,8 @@
 
 /**
  * @author SISHANK
- *
- */
+ ******
+ **************/
 public class SecondsAndMinutes {
 
 	/**
@@ -39,4 +39,7 @@ public class SecondsAndMinutes {
 		return getDurationString(mm, ss);
 	}
 
+	public static void main1(String[] args) {
+		System.out.println("Hello Bro, are we cool");
+	}
 }
